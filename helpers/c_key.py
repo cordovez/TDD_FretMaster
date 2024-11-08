@@ -27,4 +27,4 @@ def create_key_of_c_complete() -> list[FlashCard]:
 
 if __name__ == '__main__':
     fret = Fretboard()
-    print(fret.position_4())
+    print(fret.position_1())
